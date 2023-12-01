@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Thank you for visiting my blog.
   Have a nice day!
 permalink: ':title/'
-baseurl: "/toq-eng-blog" # the subpath of your site, e.g. /blog
+baseurl: "/jk_based_blog____" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
