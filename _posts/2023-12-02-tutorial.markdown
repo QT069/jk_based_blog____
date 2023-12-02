@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hướng dẫn tạo một blog web bằng Jekyll theme với Github Pages 
-date: 2023-12-02 20:06:00 +0300
+date: 2023-12-02 00:06:00 +0300
 img: create-jekyll-blog.jpg
 tags: [LinhTinh]
 ---
