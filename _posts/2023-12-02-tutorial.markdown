@@ -22,7 +22,7 @@ Clone repo chứa theme về máy.
 * Tạo 1 repo mới `public` để push code lên.
 * Clone repo về máy
 * Copy code trong repo Flexible Jekyll dán vào repo mới tạo (vừa clone về máy) và tiến hành cấu trúc lại nội dung trang web.
-* Push code lên repo.
+* Commit và push code lên Github. 
 
 # **LƯU Ý**
 >
