@@ -1,0 +1,18 @@
+---
+layout: post
+title: Hướng dẫn tạo một blog web bằng Jekyll theme với Github Pages 
+date: 2023-12-02 20:06:00 +0300
+img: create-jekyll-blog.jpg
+tag: [Vọc vạch]
+---
+Page này được build dựa trên [Flexible theme](https://github.com/artemsheludko/flexible-jekyll).  
+***
+# Bước 1: 
+Bấm [vào đây](https://jekyllrb.com/docs/installation/windows/) để cài đặt Ruby và Jekyll 
+
+***
+# Bước 2: 
+Clone [repo này](https://github.com/artemsheludko/flexible-jekyll) về máy tính và tiến hành chỉnh sửa. 
+>git clone https://github.com/artemsheludko/flexible-jekyll.git
+# Bước 3: 
+Tạo 1 repo mới `public` để push code lên
