@@ -10,6 +10,9 @@ Page này được build dựa trên [Flexible theme](https://github.com/artemsh
 ***
 # Bước 1: 
 Bấm [vào đây](https://jekyllrb.com/docs/installation/windows/) để cài đặt Ruby và Jekyll.
+(Mình recommend mọi người xem các clip hướng dẫn của bác này, khá ngắn gọn dễ hiểu)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T1itpPvFWHI?si=wFlaKVKlDQ_uAErY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ***
 
@@ -30,8 +33,6 @@ Clone repo chứa theme về máy.
  * Tên của các post Markdown phải đặt theo cấu trúc yyyy-mm-dd-title.markdown.
  * Phần thời gian `date:` không được là thời gian trong tương lai.
  * Trong **GEMFILE** thêm `gem "github-pages"` vào bên trong `group :jekyll_plugins`.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T1itpPvFWHI?si=wFlaKVKlDQ_uAErY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
