@@ -31,7 +31,7 @@ Clone repo chứa theme về máy.
  * Phần thời gian `date:` không được là thời gian trong tương lai.
  * Trong **GEMFILE** thêm `gem "github-pages"` vào bên trong `group :jekyll_plugins`.
 
-{@embed: https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T1itpPvFWHI?si=wFlaKVKlDQ_uAErY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
