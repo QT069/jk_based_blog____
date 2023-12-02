@@ -10,6 +10,7 @@ Page này được build dựa trên [Flexible theme](https://github.com/artemsh
 ***
 # Bước 1: 
 Bấm [vào đây](https://jekyllrb.com/docs/installation/windows/) để cài đặt Ruby và Jekyll.
+
 (Mình recommend mọi người xem các clip hướng dẫn của bác này, khá ngắn gọn dễ hiểu)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T1itpPvFWHI?si=wFlaKVKlDQ_uAErY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
