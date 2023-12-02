@@ -25,7 +25,6 @@ Clone repo chứa theme về máy.
 * Commit và push code lên Github. 
 
 # **LƯU Ý**
->
  * Trong file _config.yml , sửa lại `baseurl` lại để trùng hớp với link đã được github generate : username.github.io`/baseurl`. 
  * Tên của các post Markdown phải đặt theo cấu trúc yyyy-mm-dd-title.markdown.
  * Phần thời gian `date:` không được là thời gian trong tương lai.
