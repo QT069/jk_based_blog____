@@ -14,9 +14,18 @@ Bấm [vào đây](https://jekyllrb.com/docs/installation/windows/) để cài �
 ***
 
 # Bước 2: 
-Clone [repo này](https://github.com/artemsheludko/flexible-jekyll) về máy tính và tiến hành chỉnh sửa. 
+Clone repo chứa theme về máy. 
 >`git clone https://github.com/artemsheludko/flexible-jekyll.git`
 
 ***
 # Bước 3: 
-Tạo 1 repo mới `public` để push code lên.
+* Tạo 1 repo mới `public` để push code lên.
+* Clone repo về máy
+* Copy code trong repo Flexible Jekyll dán vào repo mới tạo (vừa clone về máy) và tiến hành cấu trúc lại nội dung trang web.
+* Push code lên repo.
+
+# **LƯU Ý**
+>Trong file _config.yml , sửa lại `baseurl` lại để trùng hớp với link đã được github generate : username.github.io **/baseurl**.
+>Tên của các post Markdown phải đặt theo cấu trúc yyyy-mm-dd-title.markdown
+>Phần thời gian `date:` không được là thời gian trong tương lai 
+>Trong **GEMFILE** thêm `gem "github-pages"` vào bên trong `group :jekyll_plugins` 
