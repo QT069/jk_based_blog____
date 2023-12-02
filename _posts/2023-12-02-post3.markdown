@@ -1,7 +1,0 @@
----
-layout: post
-title: POST 3
-date: 2023-12-02 10:01:00 +0300
-tag: [T]
----
-123
