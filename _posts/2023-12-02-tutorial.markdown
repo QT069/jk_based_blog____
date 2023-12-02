@@ -13,6 +13,6 @@ Bấm [vào đây](https://jekyllrb.com/docs/installation/windows/) để cài �
 ***
 # Bước 2: 
 Clone [repo này](https://github.com/artemsheludko/flexible-jekyll) về máy tính và tiến hành chỉnh sửa. 
->git clone `https://github.com/artemsheludko/flexible-jekyll.git`
+>`git clone https://github.com/artemsheludko/flexible-jekyll.git`
 # Bước 3: 
 Tạo 1 repo mới `public` để push code lên
