@@ -11,7 +11,7 @@ Page này được build dựa trên [Flexible theme](https://github.com/artemsh
 # Bước 1: 
 Bấm [vào đây](https://jekyllrb.com/docs/installation/windows/) để cài đặt Ruby và Jekyll.
 
-(Mình recommend mọi người xem các clip hướng dẫn của bác này, khá ngắn gọn dễ hiểu)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T1itpPvFWHI?si=wFlaKVKlDQ_uAErY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
@@ -25,7 +25,7 @@ Clone repo chứa theme về máy.
 # Bước 3: 
 * Tạo 1 repo mới `public` để push code lên.
 * Clone repo về máy
-* Copy code trong repo Flexible Jekyll dán vào repo mới tạo (vừa clone về máy) và tiến hành cấu trúc lại nội dung trang web.
+* Copy code trong repo Flexible Jekyll dán vào repo mới tạo (vừa clone về máy) và edit web.
 * Commit và push code lên Github. 
 
 ***
