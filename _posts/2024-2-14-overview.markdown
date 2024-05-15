@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Hả
-date: 2024-2-14 12:59:00 +0300
+title: Sơ lược bản thân 
+date: 2023-12-02 00:06:00 +0300
 img: ovv.jpg
+tags: [LinhTinh]
 ---
-#**Web này để lưu lại mấy cái linh tinh đã học đc o_0**
-
-
-
   
+#Hello 
